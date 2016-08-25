@@ -1,0 +1,6 @@
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch6As11\Ch6As11\bin\Debug\Ch6As11.exe.config
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch6As11\Ch6As11\obj\Debug\Ch6As11.csprojResolveAssemblyReference.cache
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch6As11\Ch6As11\bin\Debug\Ch6As11.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch6As11\Ch6As11\bin\Debug\Ch6As11.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch6As11\Ch6As11\obj\Debug\Ch6As11.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch6As11\Ch6As11\obj\Debug\Ch6As11.pdb

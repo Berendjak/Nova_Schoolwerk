@@ -1,0 +1,16 @@
+#table, th, td{
+    background-color: yellow;
+    font-family: arial;
+    
+}
+.color-change{
+    background-color:#0000cc;
+    color: white;
+    
+}
+.h1-red{
+    color: red;
+}
+.h1-green{
+    color: green;
+}

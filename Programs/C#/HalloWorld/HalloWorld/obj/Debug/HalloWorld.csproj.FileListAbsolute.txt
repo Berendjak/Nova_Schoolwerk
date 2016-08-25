@@ -1,0 +1,9 @@
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\HalloWorld\HalloWorld\bin\Debug\HalloWorld.exe.config
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\HalloWorld\HalloWorld\bin\Debug\HalloWorld.exe
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\HalloWorld\HalloWorld\bin\Debug\HalloWorld.pdb
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\HalloWorld\HalloWorld\obj\Debug\HalloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\HalloWorld\HalloWorld\obj\Debug\HalloWorld.exe
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\HalloWorld\HalloWorld\obj\Debug\HalloWorld.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\HalloWorld\HalloWorld\bin\Debug\HalloWorld.exe.config
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\HalloWorld\HalloWorld\obj\Debug\HalloWorld.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\HalloWorld\HalloWorld\obj\Debug\HalloWorld.pdb

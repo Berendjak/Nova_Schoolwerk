@@ -1,0 +1,5 @@
+3 kan niet (omdat er twee punten in staan)
+4 kan niet (omdat er spaties in staan)
+5 kan niet (omdat er een punt na het streepje komt)
+6 kan niet (omdat er voor het plusteken een punt staat)
+10 kan niet (omdat er een punt als laatst staat)

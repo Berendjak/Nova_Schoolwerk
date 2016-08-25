@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <button onclick="klik()">Klik hier</button>
+        <script>
+            var eentotnegentien = ["een"[1], "twee"[2], "drie"[3], "vier"[4], "vijf"[5], "zes"[6],
+                "zeven"[7], "acht"[8], "negen"[9], "tien"[10], "elf"[11], "twaalf"[12], "dertien"[13], "viertien"[14],
+                "vijftien"[15], "zestien"[16], "zeventien"[17], "achtien"[18], "negentien"[19]];
+            var tientallen = ["twintig", "dertig", "veertig", "vijftig", "zestig",
+                "zeventig", "tachtig", "negentig"];
+            var hoger = ["duizend", "miljoen", "miljard", "triljoen", "triljard"];
+
+            function klik() {
+                getal = prompt("Vul een getal in");
+
+                if (isNaN(getal)) {
+                    alert("Je hebt geen getal ingevuld");
+                } else {
+                    if(getal < 20){
+                        getal.convert(eentotnegentien);
+                        alert(getal);
+                    }
+                    else if(getal.length === 2 && getal > 19){
+                        
+                    }
+                }
+            }
+        </script>
+    </body>
+</html>

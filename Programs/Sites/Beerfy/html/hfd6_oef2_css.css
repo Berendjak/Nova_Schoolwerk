@@ -1,0 +1,41 @@
+#black{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 1879px;
+    height: 150px;
+    background-color: black;
+    color: white;
+}
+#red{
+    position: absolute;
+    top: 160px;
+    left: 10px;
+    width: 200px;
+    height: 1000px;
+    background-color: red;
+}
+#yellow{
+    position: absolute;
+    top: 160px;
+    left: 210px;
+    height: 300px;
+    width: 750px;
+    background-color: yellow;
+}
+#blue{
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    heigth: 50px;
+    width: 850px;
+    background-color:#66ccff;
+}
+#silver{
+    position: absolute;
+    top: 160px;
+    right: 10px;
+    height: 500px;
+    width: 300px;
+    background-color: silver;
+}

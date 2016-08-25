@@ -1,0 +1,6 @@
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch8As15\Ch8As15\bin\Debug\Ch8As15.exe.config
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch8As15\Ch8As15\bin\Debug\Ch8As15.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch8As15\Ch8As15\bin\Debug\Ch8As15.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch8As15\Ch8As15\obj\Debug\Ch8As15.csprojResolveAssemblyReference.cache
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch8As15\Ch8As15\obj\Debug\Ch8As15.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch8As15\Ch8As15\obj\Debug\Ch8As15.pdb

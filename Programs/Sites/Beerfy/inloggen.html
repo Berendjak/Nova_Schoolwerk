@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Beerfy</title>
+        <link rel="shortcut icon" href="meme.jpg" id="img2"/>
+        <link rel="stylesheet" type="text/css" href="siteoverzelf.css">
+    </head>
+    <body onresize="changeImage();">
+        <img draggable="false" id="img1" src="landscape.jpg" alt="landscape" title="landscape">
+        <script language="javascript" type="text/javascript">
+            function changeImage()
+            {
+                document.getElementById("img1").style.height = "43.4%";
+                document.getElementById("img1").style.width = "100%";
+                return true;
+            }
+            function myFunction() {
+                alert("das pech");
+            }
+        </script>
+        <ul id="mainbar">
+            <li id="main">
+                <a href="index.html"> Home </a>
+            </li>
+            <li id="berend">
+                <a href="berendjak.html">Berend Jak</a>
+            </li>
+            <li id="work">
+                <a href="work.html">Work</a>
+                <ul>
+                    <li><a href="work-html.html">HTML</a></li>
+                    <li><a href="work-java.html">Java</a></li>
+                    <li><a href="work-excel.html">Excel</a></li>
+                    <li><a href="work-probleem.html">Probleem Analyse</a></li>
+                    <li><a href="work-talstelsel.html">Talstelsel</a></li>
+                </ul>
+            </li>
+            <li id="regi">
+                <a href="registreren.html">Registreren</a>
+            </li>
+            <li id="inl">
+                <a href="inloggen.html">Inloggen</a>
+            </li>
+        </ul>
+        <div id="body">
+            <div id="textvak1-1">
+                <div id="textvak1">
+                    <h1>Inloggen</h1><br><br>
+                    <form id="begrnaam" method="post" action="bestemming">
+                        <input type="text" name="naam" size="30" maxlength="40" placeholder="Gebruikersnaam">
+                    </form><br>
+                    <form id="password" method="post" action="bestemming">
+                        <input type="password" name="wachtwoord" size="30" maxlength="40" placeholder="Wachtwoord">
+                        <br><br>
+                        <input id="inlog" onclick="myFunction()" type="submit" value="log in">
+                    </form>
+                </div>
+            </div>
+            <footer><p>Copyright © Berend Jak</p></footer>
+        </div>
+
+    </body>
+</html>

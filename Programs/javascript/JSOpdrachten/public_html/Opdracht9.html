@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+
+        <script>
+            function show() {
+                var date = new Date();
+                hours = date.getHours();
+
+                if (hours > 0 && hours < 6) {
+                    alert('Het is Nacht');
+                } else if (hours > 6 && hours < 12) {
+                    alert('Het is Ochtend');
+                } else if (hours > 12 && hours < 18) {
+                    alert('Het is Middag');
+                } else if (hours > 18 && hours < 0) {
+                    alert('Het is Avond');
+                }
+            }
+        </script>
+        <input type='button' value='date' title='time of day' onclick="show();">
+    </body>
+</html>

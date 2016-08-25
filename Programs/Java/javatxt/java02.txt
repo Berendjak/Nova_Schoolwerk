@@ -1,0 +1,4 @@
+10 omdat er een spatie in zit
+11 omdat er een punt in zit
+12 omdat er een % in zit
+14 omdat er kleine letters in staan

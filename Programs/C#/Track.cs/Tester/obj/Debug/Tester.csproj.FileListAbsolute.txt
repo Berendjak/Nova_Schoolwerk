@@ -1,0 +1,8 @@
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Track.cs\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Track.cs\Tester\bin\Debug\Tester.exe.config
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Track.cs\Tester\bin\Debug\Tester.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Track.cs\Tester\bin\Debug\Tester.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Track.cs\Tester\bin\Debug\AudioDevices.dll
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Track.cs\Tester\bin\Debug\AudioDevices.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Track.cs\Tester\obj\Debug\Tester.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Track.cs\Tester\obj\Debug\Tester.pdb

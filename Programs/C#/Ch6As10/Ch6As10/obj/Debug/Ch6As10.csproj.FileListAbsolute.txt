@@ -1,0 +1,5 @@
+c:\users\beren\documents\visual studio 2015\Projects\Ch6As10\Ch6As10\bin\Debug\Ch6As10.exe.config
+c:\users\beren\documents\visual studio 2015\Projects\Ch6As10\Ch6As10\bin\Debug\Ch6As10.exe
+c:\users\beren\documents\visual studio 2015\Projects\Ch6As10\Ch6As10\bin\Debug\Ch6As10.pdb
+c:\users\beren\documents\visual studio 2015\Projects\Ch6As10\Ch6As10\obj\Debug\Ch6As10.exe
+c:\users\beren\documents\visual studio 2015\Projects\Ch6As10\Ch6As10\obj\Debug\Ch6As10.pdb

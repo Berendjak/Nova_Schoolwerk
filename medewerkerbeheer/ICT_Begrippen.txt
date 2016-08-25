@@ -1,0 +1,39 @@
+Subnetmask: het laat zien welke ip adressen bij je eigen netwerk horen.
+
+Gateway: netwerkpunt dat dienst doet als toegang tot een ander netwerk.
+
+DNS(Domein Naam Systeem): een vertaling van het ip-adres naar een naam.
+
+DHCP(Dynamic Host Configuration Protocol): is een computerprotocol dat beschrijft hoe een computer 
+dynamisch zijn netwerkinstelling van een DHCP-server kan verkrijgen. Het DHCP-protocol is gebaseerd op 
+het Internet Protocol IP en werkt met UDP-pakketten.
+
+Ping: is een hulpprogramma dat wordt gebruikt om bereikbaarheid van een node te testen op computernetwerken 
+en de vertragingstijd, de latency, te meten.
+
+Domain-controller: is een server die op verificatieaanvragen van veiligheid reageert.
+
+RSAT(Remote Server Administration Tools): hiermee kan je windows server 2008 van afstand besturen.
+
+MMC(Microsoft Managment Console): is een toepassing die optreedt als host voor hulpprogramma’s voor het systeembeheer van computers, 
+netwerken en andere systeem-componenten.
+
+MSTSC(MicroSoft Terminal Server Console): een manier om met een extern desktop te connecten.
+
+DNS-Forwarders: extra hulp voor de DNS wanneer hij geen naam heeft voor het ip-adres dat wordt gevraagd.
+
+Query:  (Engels voor vraagstelling) wordt in de informatica een opdracht bedoeld die aan een database wordt gegeven om een bepaalde 
+actie uit te voeren, die ook potentieel gegevens terug geeft.
+
+Share rechten: gebruik je om op mappen rechten te zetten. Verleent de machtiging Modify aan de groep Gebruikers.
+Verleent de machtiging Full Control aan de groepsmanager.
+
+NTFS rechten: gebruikt je om op mappen en bestanden rechten te zetten. Verleent de machtiging Write aan de gebruikersgroep die is 
+toegepast op alleen deze map.
+
+Modify: je kan de in bestanden veranderingen aanbrengen.
+
+Full control: je hebt toestemming om alles te veranderen in de bestanden en mappen waar je recht op heb.
+
+
+

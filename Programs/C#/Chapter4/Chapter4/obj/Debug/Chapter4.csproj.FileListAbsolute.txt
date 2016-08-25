@@ -1,0 +1,11 @@
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter4\Chapter4\bin\Debug\Chapter4.exe.config
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter4\Chapter4\bin\Debug\Chapter4.exe
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter4\Chapter4\bin\Debug\Chapter4.pdb
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter4\Chapter4\obj\Debug\Chapter4.exe
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter4\Chapter4\obj\Debug\Chapter4.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter4\Chapter4\bin\Debug\Chapter4.exe.config
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter4\Chapter4\obj\Debug\Chapter4.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter4\Chapter4\obj\Debug\Chapter4.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter4\Chapter4\bin\Debug\Chapter4.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter4\Chapter4\bin\Debug\Chapter4.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter4\Chapter4\obj\Debug\Chapter4.csprojResolveAssemblyReference.cache

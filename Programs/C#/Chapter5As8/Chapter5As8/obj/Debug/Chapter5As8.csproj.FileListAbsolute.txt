@@ -1,0 +1,12 @@
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter5As8\Chapter5As8\bin\Debug\Chapter5As8.exe.config
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter5As8\Chapter5As8\bin\Debug\Chapter5As8.exe
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter5As8\Chapter5As8\bin\Debug\Chapter5As8.pdb
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter5As8\Chapter5As8\obj\Debug\Chapter5As8.csprojResolveAssemblyReference.cache
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter5As8\Chapter5As8\obj\Debug\Chapter5As8.exe
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter5As8\Chapter5As8\obj\Debug\Chapter5As8.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter5As8\Chapter5As8\bin\Debug\Chapter5As8.exe.config
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter5As8\Chapter5As8\obj\Debug\Chapter5As8.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter5As8\Chapter5As8\obj\Debug\Chapter5As8.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter5As8\Chapter5As8\bin\Debug\Chapter5As8.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter5As8\Chapter5As8\bin\Debug\Chapter5As8.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter5As8\Chapter5As8\obj\Debug\Chapter5As8.csprojResolveAssemblyReference.cache

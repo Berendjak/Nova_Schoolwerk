@@ -1,0 +1,6 @@
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch7As12\Ch7As12\bin\Debug\Ch7As12.exe.config
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch7As12\Ch7As12\bin\Debug\Ch7As12.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch7As12\Ch7As12\bin\Debug\Ch7As12.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch7As12\Ch7As12\obj\Debug\Ch7As12.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch7As12\Ch7As12\obj\Debug\Ch7As12.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Ch7As12\Ch7As12\obj\Debug\Ch7As12.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Track.cs\AudioDevices\obj\Debug\AudioDevices.csprojResolveAssemblyReference.cache
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Track.cs\AudioDevices\bin\Debug\AudioDevices.dll
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Track.cs\AudioDevices\bin\Debug\AudioDevices.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Track.cs\AudioDevices\obj\Debug\AudioDevices.dll
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Track.cs\AudioDevices\obj\Debug\AudioDevices.pdb

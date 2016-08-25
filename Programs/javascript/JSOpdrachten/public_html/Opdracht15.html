@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <script>
+            var person = new Array(1);
+            for (var a = 0; a < person.length; a++) {
+                person[a] = new Array(2);
+            }
+
+            person[0][0] = prompt("Vul je voornaam in");
+            person[0][1] = prompt("Vul je tweede naam in");
+            person[0][2] = prompt("Vul je achternaam in");
+            person[0][3] = prompt("Vul je leeftijd in");
+            
+            for(var b = 0; b < person.length; b++){
+                for(var c = 0; c < person[b].length; c++){
+                    document.write(person[b][c] + " ");
+                }
+            }
+
+        </script>
+    </body>
+</html> 

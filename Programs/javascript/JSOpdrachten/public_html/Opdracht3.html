@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Calculator</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body><!--
+        <form method="post">
+            <input type="text" name='getal1' id='getal1' placeholder="Type een getal...">
+            <input type="text" name='char'  placeholder="type '+', '-', '*', '/'" maxlength='1'>
+            <input type='text' name='getal2' id='getal2' placeholder="Type een getal...">
+            <input type='submit' value="Enter" onClick="Calculator()">
+            <input type='reset' value='clear'>
+        </form>-->
+        <script type="text/javascript">
+
+            getal1 = prompt("Eerste getal");
+            karakter = prompt("Vul +, -, / of * in");
+            getal2 = prompt("Tweede getal");
+
+            switch (karakter) {
+                case'+':
+                    uitkomst = getal1 + getal2;
+                    document.write(uitkomst);
+                    break;
+                case '-':
+                    uitkomst = getal1 - getal2;
+                    document.write(uitkomst);
+                    break;
+                case '*':
+                    uitkomst = getal1 * getal2;
+                    document.write(uitkomst);
+                    break;
+                case '/':
+                    uitkomst = getal1 / getal2;
+                    document.write(uitkomst);
+                    break;
+            }
+        </script>
+    </body>
+</html>

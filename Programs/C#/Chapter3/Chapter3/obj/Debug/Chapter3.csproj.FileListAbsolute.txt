@@ -1,0 +1,12 @@
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter3\Chapter3\bin\Debug\Chapter3.exe.config
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter3\Chapter3\obj\Debug\Chapter3.csprojResolveAssemblyReference.cache
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter3\Chapter3\bin\Debug\Chapter3.exe
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter3\Chapter3\bin\Debug\Chapter3.pdb
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter3\Chapter3\obj\Debug\Chapter3.exe
+C:\Users\Berend\Desktop\School_Werk_Nova\Programs\C#\Chapter3\Chapter3\obj\Debug\Chapter3.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter3\Chapter3\bin\Debug\Chapter3.exe.config
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter3\Chapter3\obj\Debug\Chapter3.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter3\Chapter3\obj\Debug\Chapter3.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter3\Chapter3\bin\Debug\Chapter3.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter3\Chapter3\bin\Debug\Chapter3.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\Chapter3\Chapter3\obj\Debug\Chapter3.csprojResolveAssemblyReference.cache

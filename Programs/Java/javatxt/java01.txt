@@ -1,0 +1,15 @@
+1 kan
+2 kan
+3 kan
+4 kan niet (omdat cees en dick selectief zijn en naast elkaar staan)
+5 kan 
+6 kan
+7 kan
+8 kan
+9 kan
+10 kan
+11 kan niet (omdat wim en coen selectief zijn en naast elkaar staan)
+12 kan
+13 kan
+14 kan niet (miep is selectief dus kan niet twee keer voorkomen)
+15 kan

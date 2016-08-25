@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <input type="button" value='dag' onclick='klik()'>
+        <script>
+            function klik() {
+                var date = new Date();
+                var dag = date.getDay();
+
+                switch (dag) {
+                    case 1:
+                        document.write("maandag ");
+                    case 2:
+                        document.write("dinsdag ");
+                    case 3:
+                        document.write("woensdag ");
+                    case 4:
+                        document.write("donderdag ");
+                    case 5:
+                        document.write("vrijdag ");
+                    case 6:
+                        document.write("zaterdag ");
+                    case 7:
+                        document.write("zondag ");
+                    default:
+                        break;
+                }
+            }
+        </script>
+    </body>
+</html>

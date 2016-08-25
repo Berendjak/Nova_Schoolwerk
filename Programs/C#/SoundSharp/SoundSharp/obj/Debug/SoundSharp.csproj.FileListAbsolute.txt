@@ -1,0 +1,6 @@
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\SoundSharp\SoundSharp\bin\Debug\SoundSharp.exe.config
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\SoundSharp\SoundSharp\bin\Debug\SoundSharp.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\SoundSharp\SoundSharp\bin\Debug\SoundSharp.pdb
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\SoundSharp\SoundSharp\obj\Debug\SoundSharp.csprojResolveAssemblyReference.cache
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\SoundSharp\SoundSharp\obj\Debug\SoundSharp.exe
+C:\Users\beren\Documents\School_Werk_Nova\Programs\C#\SoundSharp\SoundSharp\obj\Debug\SoundSharp.pdb
